@@ -876,15 +876,6 @@ console.log(lower_am_pm(dt));
 
 
 
-
-
-
-
-
-  
-
-
-
   
   //   Write a JavaScript function to swatch Internet time (000 through 999).   
 // Test Data :
