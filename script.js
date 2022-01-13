@@ -591,14 +591,6 @@ console.log(calculate_age(new Date(1962, 1, 1)));
 
 
 
-
-
-
-
-
-
-
-
 // Write a JavaScript function to get the day of the month, 2 digits with leading zeros.   
 // Test Data :
 // d= new Date(2015, 10, 1);
