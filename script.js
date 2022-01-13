@@ -240,13 +240,6 @@ console.log(yesterday('Nov 16, 2015'));
 console.log(yesterday('Nov 17, 2016'));
 
 
-
-
-
-
-
-
-
 // program11
 
 // Write a JavaScript function to get the maximum date from an array of dates. Go to the editor
