@@ -335,11 +335,6 @@ function timeConvert(n) {
     console.log(timeConvert(200));
 
 
-
-
-
-
-
     
       //Write a JavaScript function to get the amount of days of a year.   
 
