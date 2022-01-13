@@ -424,12 +424,6 @@ return hr+ ':' + m.substr(-2) + ':' + s.substr(-2);
 console.log(Unix_timestamp(1412743274));
 
 
-
-
-
-
-
-
 // Write a JavaScript function to get 12-hour format of an hour with leading zeros.   
 // Test Data :
 // dt = new Date(1989, 10, 1);
