@@ -716,17 +716,6 @@ console.log(english_ordinal_suffix(dt));
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 // Write a JavaScript function to get ISO-8601 week number of year, weeks starting on Monday.   
 // Example : 42 (the 42nd week in the year)
 // Test Data :
