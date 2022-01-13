@@ -632,12 +632,6 @@ console.log(day_of_the_month(d));
 
 
 
-
-
-
-
-
-
 // Write a JavaScript function to get a full textual representation of the day of the week (Sunday through Saturday).   
 // Test Data :
 // dt = new Date(2015, 10, 1);
