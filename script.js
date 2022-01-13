@@ -1268,10 +1268,6 @@ dt2 = new Date("October 19, 2014 11:13:00");
 console.log(diff_months(dt1, dt2));
 
 
-
-
-
-
 // Write a JavaScript function to get the week start date.  
 
 function startOfWeek(date)
