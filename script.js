@@ -846,16 +846,6 @@ console.log(sort_year(dt));
 
 
 
-
-
-
-
-
-
-
-
-
-
 // Write a JavaScript function to get lowercase Ante meridiem and Post meridiem.
 
 function lower_am_pm(dt) 
