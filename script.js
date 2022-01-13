@@ -747,12 +747,6 @@ console.log(ISO8601_week_no(dt));
 
 
 
-
-
-
-
-
-
 // Write a JavaScript function to get a full textual representation of a month, such as January or June.   
 // Test Data :
 // dt = new Date(2015, 10, 1);
