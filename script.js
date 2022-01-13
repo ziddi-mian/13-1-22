@@ -1028,13 +1028,6 @@ dt = new Date(1989, 10, 1);
 console.log(daylights_savings(dt));
 
 
-
-
-
-
-
-
-
 // Write a JavaScript function to find whether or not the date is in daylights savings time.   
 // Test Data :
 // dt = new Date();
