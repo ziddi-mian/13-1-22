@@ -218,11 +218,6 @@ var date_diff_indays = function(date1, date2) {
     console.log(date_diff_indays('12/02/2014', '11/04/2014'));
 
 
-
-
-
-    
-    
      //     progrm 10
 
 //     Write a JavaScript function to calculate 'yesterday day'.   
