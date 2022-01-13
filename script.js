@@ -291,11 +291,6 @@ function max_date(all_dates) {
     console.log(max_date(['2015/02/01', '2015/02/02', '2015/01/03']));
 
 
-
-
-
-
-
       // Write a JavaScript function to get the minimum date from an array of dates.   
 
 // Test Data :
