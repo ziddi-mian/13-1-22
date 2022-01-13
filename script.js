@@ -402,9 +402,6 @@ function days_passed(dt) {
 
 
 
-
-
-
   
    //   Write a JavaScript function to convert a Unix timestamp to time.   
 
