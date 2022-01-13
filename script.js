@@ -361,8 +361,6 @@ console.log(days_of_a_year(2016));
 
 
 
-
-
 // Write a JavaScript function to get the quarter (1 to 4) of the year.   
 
 // Test Data :
