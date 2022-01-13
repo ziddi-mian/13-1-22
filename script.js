@@ -314,10 +314,6 @@ function min_date(all_dates) {
    console.log(min_date(['2015/02/01', '2015/02/02', '2015/01/03']));
 
 
-
-
-
-
    
      //Write a JavaScript function that will return the number of minutes in hours and minutes.   
 
