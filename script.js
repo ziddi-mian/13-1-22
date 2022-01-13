@@ -382,11 +382,6 @@ console.log(quarter_of_the_year(new Date(2015, 10, 18)));
 
 
 
-
-
-
-
-
 // Write a JavaScript function to count the number of days passed since beginning of the year.   
 
 // Test Data :
