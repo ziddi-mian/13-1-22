@@ -196,9 +196,6 @@ var date_diff_indays = function(date1, date2) {
 
 
 
-
-
-
   //     program 9
 
 //     Write a JavaScript function to get the last day of a month.   
